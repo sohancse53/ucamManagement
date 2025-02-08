@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body{
+    background-color: #bac2ff;
+}
+header{
+    background-color: #4e91fd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:140px ;
+}
+.login{
+    background-color: #2a9dd6;
+   padding: 20px;
+   border: 2px solid #4cabfb;
+}
+img{
+    width: 220px;
+}
+label{
+    color: white;
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+.box{
+    width: 290px;
+    background-color: #cff9c7;
+    border: none;
+    height: 25px;
+    margin-bottom: 10px;
+    padding: 5px; 
+    
+}
+.rem{
+    margin-right: 100px;
+}
+.sohan{
+    display: flex;
+    font-size: 12px;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+button{
+    width: 93px;
+    height: 24px;
+    color: white;
+    background-color: #0229bf;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+}
+button:hover{
+    background-color: #0431e4;
+}
+footer{
+    position: absolute;
+    bottom: 4%;
+   width: 100%;
+    text-align: center;
+   
+}
+hr{
+    background-color: #4e91fd;
+    height: 1px;
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    border: none;
+}
+p{
+    font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+}
+.sp{
+    font-family:'Times New Roman', Times, serif;
+
+    font-size: 12px;
+}
+#fr{
+    font-family:'Times New Roman', Times, serif;
+text-decoration: none;
+color: white;
+    font-size: 13px;
+    
+}
